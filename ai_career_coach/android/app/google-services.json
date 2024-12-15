@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "566519754434",
+    "project_id": "ai-career-coach-app",
+    "storage_bucket": "ai-career-coach-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566519754434:android:069477f052798ae83e955b",
+        "android_client_info": {
+          "package_name": "com.example.ai_career_coac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566519754434-jmvo13oj501hd48qit485pn2u1c67t6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sgci7C3EJ49JDaUaEMiSuHtCQ4Rq5T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566519754434-jmvo13oj501hd48qit485pn2u1c67t6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566519754434:android:0ce0b514d9cdecfd3e955b",
+        "android_client_info": {
+          "package_name": "com.example.ai_career_coach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566519754434-jmvo13oj501hd48qit485pn2u1c67t6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sgci7C3EJ49JDaUaEMiSuHtCQ4Rq5T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566519754434-jmvo13oj501hd48qit485pn2u1c67t6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
